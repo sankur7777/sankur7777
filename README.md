@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankur7777" alt="sankur7777" /></a> </p>
 
-- 🔭 I’m currently working on **House Price Prediction**
+- 🔭 I’m currently working on **Car Price Prediction**
 
 - 🌱 I’m currently learning **Data Science**
 
